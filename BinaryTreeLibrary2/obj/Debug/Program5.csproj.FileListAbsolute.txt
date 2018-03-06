@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Prog5EC\BinaryTreeLibrary2\bin\Debug\BinaryTreeLibrary2.exe
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Prog5EC\BinaryTreeLibrary2\bin\Debug\BinaryTreeLibrary2.pdb
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Prog5EC\BinaryTreeLibrary2\obj\Debug\Program5.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Prog5EC\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.exe
+C:\Users\Owner\Documents\FALL 2017\CIS 200\Programs\Prog5EC\BinaryTreeLibrary2\obj\Debug\BinaryTreeLibrary2.pdb
